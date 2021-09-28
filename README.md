@@ -10,7 +10,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=moyu6027&show_icons=true?theme=vue)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=moyu6027&show_icons=true&theme=flag-india)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moyu6027&layout=compact)
 
