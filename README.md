@@ -15,3 +15,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moyu6027&layout=compact)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moyu6027&repo=jenkinstest)](https://github.com/moyu6027/jenkinstest)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=moyu6027&repo=monkey-framework)](https://github.com/moyu6027/monkey-framework)
