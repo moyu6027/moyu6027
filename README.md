@@ -32,7 +32,7 @@
 <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" width="22" height="22"/> 
 </p>
 
-- https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white 
+
 - Email: moyu6027@gmail.com
 
 
